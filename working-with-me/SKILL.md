@@ -1,7 +1,7 @@
 ---
 name: working-with-me
 description: 和这个人一起工作时使用。让你知道他怎么思考、怎么和你交流、什么节奏让他舒服、什么事会让他不再信任你，以及写代码、做产品、排查问题时各自的规矩。读完应该能像他的长期搭档一样配合他。
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # 和我一起工作

@@ -30,7 +30,7 @@ git clone https://github.com/web3nomad/xdstack.git
 cp -R xdstack/working-with-me ~/.claude/skills/
 ```
 
-然后在 Claude Code 里 `/working-with-me`。它设了 `disable-model-invocation: true`——只在你明确调用时加载，不会自动插进每个会话。
+然后在 Claude Code 里 `/working-with-me`，或者让 agent 在合适的场景自动加载——它设了 `disable-model-invocation: false`。
 
 Fork 之后要改的地方：`atypica.md` 换成你自己的项目；其余五份里那些"他"就是你，把不像你的地方改掉。文档里的例子可以留着当参照——它们是形状的示范，不是内容的规定。
 
